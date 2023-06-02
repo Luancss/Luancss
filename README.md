@@ -2,9 +2,10 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luanworth)
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=Luancss&show_icons=true&theme=dracula&count_private=true)
-<img height="195em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Luancss&layout=compact&theme=dracula">
-
+<div>
+    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=Luancss&show_icons=true&theme=dracula&count_private=true">
+    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Luancss&layout=compact&theme=dracula">
+</div>
 
 ## Technologies of my knowledge.
 
