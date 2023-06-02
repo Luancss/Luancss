@@ -1,10 +1,12 @@
-## Olá! Eu sou o Luan Carlos 👋
+## Welcome to my profile!
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luanworth)
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=Luancss&show_icons=true&theme=dracula&count_private=true)
+<img height="195em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Luancss&layout=compact&theme=dracula">
 
-## Tecnologias do meu conhecimento.
+
+## Technologies of my knowledge.
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -14,8 +16,8 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> -->
 </div><br/>
 
-Apaixonado por tecnologia, estou sempre em busca de aprendizado e crescimento.
+Passionate about technology, I'm always looking to learn and grow.
 
-### Últimos projetos:
+### Latest Projects:
 - [Gym Website - HTML / CSS / JavaScript](https://luancss.github.io/GymWebsite/)<br/>
 - [Bikcraft - HTML / CSS / JavaScript](https://luancss.github.io/bikcraft/)<br/>
