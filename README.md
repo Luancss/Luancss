@@ -22,7 +22,6 @@
 Passionate about technology, I'm always looking to learn and grow.
 
 ### Latest Projects:
-- [Gym Website - HTML / CSS / JavaScript](https://luancss.github.io/GymWebsite/)<br/>
+- [Krypto - HTML / CSS / JavaScript](https://luancss.github.io/Krypto/)<br/>
 - [Bikcraft - HTML / CSS / JavaScript](https://luancss.github.io/bikcraft/)<br/>
-- [Bikcraft - HTML / CSS / JavaScript](https://luancss.github.io/Krypto/)<br/>
-
+- [Gym Website - HTML / CSS / JavaScript](https://luancss.github.io/GymWebsite/)<br/>
