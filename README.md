@@ -22,7 +22,7 @@
 Passionate about technology, I'm always looking to learn and grow.
 
 ### Latest Projects:
-https://luancss.github.io/DSViaCEP/
+
 - [Bikcraft - HTML / CSS / JavaScript](https://luancss.github.io/bikcraft/)<br/>
 - [Gym Website - HTML / CSS / JavaScript](https://luancss.github.io/GymWebsite/)<br/>
 - [DSViaCEP - API / JavaScript](https://luancss.github.io/DSViaCEP/)<br/>
