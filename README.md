@@ -24,6 +24,7 @@ Passionate about technology, I'm always looking to learn and grow.
 ### Latest Projects:
 
 - [Bikcraft - HTML / CSS / JavaScript](https://luancss.github.io/bikcraft/)<br/>
-- [Gym Website - HTML / CSS / JavaScript](https://luancss.github.io/GymWebsite/)<br/>
-- [DSViaCEP - API / JavaScript](https://luancss.github.io/DSViaCEP/)<br/>
 - [Krypto - HTML / CSS / JavaScript](https://luancss.github.io/Krypto/)<br/>
+- [Gym Website - HTML / CSS / JavaScript](https://luancss.github.io/GymWebsite/)<br/>
+- [Animais Fantásticos - HTML / CSS / JavaScript / API ](https://github.com/Luancss/Animais-Fantasticos)<br/>
+- [DSViaCEP - API / JavaScript](https://luancss.github.io/DSViaCEP/)<br/>
