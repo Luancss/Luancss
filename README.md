@@ -9,7 +9,7 @@
     <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Luancss&layout=compact&theme=dracula">
 </div>
 
-## Technologies of my knowledge.
+## Main skills.
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
