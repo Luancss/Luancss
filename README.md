@@ -31,4 +31,4 @@ Passionate about technology, I'm always looking to learn and grow.
 - [Krypto - HTML / CSS / JavaScript](https://luancss.github.io/Krypto/)<br/>
 - [Gym Website - HTML / CSS / JavaScript](https://luancss.github.io/GymWebsite/)<br/>
 - [Animais Fantásticos - HTML / CSS / JavaScript / Rest API](https://github.com/Luancss/Animais-Fantasticos)<br/>
-- [DSViaCEP - JavaScript/ Rest API](https://luancss.github.io/DSViaCEP/)<br/>
+- [DSViaCEP - JavaScript / Rest API](https://luancss.github.io/DSViaCEP/)<br/>
