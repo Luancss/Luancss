@@ -25,7 +25,8 @@ Passionate about technology, I'm always looking to learn and grow.
 
 ### Latest Projects:
 
-- [Dtmoney - TypeScript / React / Context API / MirageJS / Polished / Axios](https://dtmoney-n4nszk0dz-luancss.vercel.app/)<br/>
+- [Ignews - TypeScript / NextJS / Fauna DB / Prismic CMS / Api Routes / Nexth-Auth / Stripe API / Jest ](https://github.com/Luancss/Ignews)<br/>
+- [Dtmoney - TypeScript / React / Context API / MirageJS / Polished / Axios](https://github.com/Luancss/Dtmoney)<br/>
 - [Dogs - JavaScript / React / Rest API](https://github.com/Luancss/Dogs)<br/>
 - [Bikcraft - HTML / CSS / JavaScript](https://luancss.github.io/bikcraft/)<br/>
 - [Krypto - HTML / CSS / JavaScript](https://luancss.github.io/Krypto/)<br/>
