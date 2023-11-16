@@ -23,15 +23,3 @@ Minha abordagem para o desenvolvimento web vai além da estética superficial. B
     <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Luancss&layout=compact&theme=dracula">
 </div>
 
-### Latest Projects:
-
-- [Dashgo - TypeScript / React / NextJS / Chakra UI / MirageJS / Apexcharts / Faker / Yup](https://github.com/Luancss/Dashgo)<br/>
-- [Ignews - TypeScript / NextJS / Fauna DB / Prismic CMS / Api Routes / Nexth-Auth / Stripe API / Jest](https://github.com/Luancss/Ignews)<br/>
-- [Igfeed - TypeScript / React / Sass / Date FNS / Phosphor Icons](https://github.com/Luancss/Igfeed)<br/>
-- [Dtmoney - TypeScript / React / Context API / MirageJS / Polished / Axios](https://github.com/Luancss/Dtmoney)<br/>
-- [Dogs - JavaScript / React / Context API / Promises](https://github.com/Luancss/Dogs)<br/>
-- [Animais Fantásticos - HTML / CSS / JavaScript / Rest API](https://github.com/Luancss/Animais-Fantasticos)<br/>
-- [Bikcraft - HTML / CSS / JavaScript / Routes](https://luancss.github.io/bikcraft/)<br/>
-- [Krypto - HTML / CSS / JavaScript / 3D Animations and Transitions](https://luancss.github.io/Krypto/)<br/>
-- [Gym Website - HTML / CSS / JavaScript / 3D Animations and Transitions](https://luancss.github.io/GymWebsite/)<br/>
-
