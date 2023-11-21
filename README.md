@@ -5,7 +5,7 @@
 <p align="left"> 
   🚀 Desenvolvedor Front-End</strong>.
 
-Minha abordagem para o desenvolvimento web vai além da estética superficial. Busco não apenas atender às expectativas, mas superá-las, proporcionando aos usuários uma jornada envolvente e intuitiva. Além do desenvolvimento técnico, sou movido por desafios criativos. Adoro explorar novas tecnologias e tendências no universo de tecnologia, incorporando-as de maneira estratégica para agregar valor aos projetos. Habilidoso em comunicação eficaz, capaz estabelecer relações interpessoais positivas e alcançar resultados em colaboração com outros membros da equipe. Possuo pensamento analítico e habilidade para resolver problemas complexos de maneira eficiente.
+Minha abordagem para o desenvolvimento web vai além da estética superficial. Busco não apenas atender às expectativas, mas superá-las, proporcionando aos usuários uma jornada envolvente e intuitiva. Além do desenvolvimento técnico, sou movido por desafios criativos. Adoro explorar novas tecnologias e tendências no universo de tecnologia, incorporando-as de maneira estratégica para agregar valor aos projetos.
 
 <h2 align="left">
  👨‍💻 Linguagens:
