@@ -1,26 +1,38 @@
-## Olá! Meu nome é <strong>Luan</strong>! 👋
+[![Header](https://github.com/Luancss/Luancss/assets/104950187/90049546-f4fe-46bd-8072-84a9544bb7aa "Header")](https://github.com/Luancss)
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
-<p align="left"> 
-  🚀 Desenvolvedor Front-End</strong>.
 
-Minha abordagem para o desenvolvimento web vai além da estética superficial. Busco não apenas atender às expectativas, mas superá-las, proporcionando aos usuários uma jornada envolvente e intuitiva. Além do desenvolvimento técnico, sou movido por desafios criativos. Adoro explorar novas tecnologias e tendências no universo de tecnologia, incorporando-as de maneira estratégica para agregar valor aos projetos.
+## 👋 Hello! 
+Front-end developer, specialized
+in JavaScript and React. Work
+efficiently in agile teams, in addition to
+ease of learning and
+interpersonal skills,
+my expertise includes creating,
+debugging and correcting codes,
+demonstrating strong ability to
+learn and solve problems.
 
-<h2 align="left">
- 👨‍💻 Linguagens:
-</h2>
+## 📚 Writing
+My personal [Portfolio](https://portfolio-website-luancss.vercel.app/).
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
-<div>
-    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=Luancss&show_icons=true&theme=dracula&count_private=true">
-    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Luancss&layout=compact&theme=dracula">
-</div>
+## 📊 Statistics
+[![Luan Carlos github stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=Luancss&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+## 🛠️ Technologies & Tools
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
+![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&color=informational&logo=next.js)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational)
+
+![](https://img.shields.io/badge/Tool-HTML-informational?style=flat&color=warning&logo=html5)
+![](https://img.shields.io/badge/Tool-CSS-informational?style=flat&color=warning&logo=css3)
+![](https://img.shields.io/badge/Tool-SCSS-informational?style=flat&color=warning&logo=sass)
+![](https://img.shields.io/badge/Tool-Tailwind_CSS-informational?style=flat&color=blue&logo=tailwind-css)
+![](https://img.shields.io/badge/Tool-Git-informational?style=flat&color=success&logo=git)
+
+
+
+
+
+<!--
