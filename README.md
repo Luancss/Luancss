@@ -17,7 +17,7 @@ learn and solve problems.
 My personal [Portfolio](https://portfolio-website-luancss.vercel.app/).
 
 ## 📊 Statistics
-[![Luan Carlos github stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=Luancss&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Luan Carlos github stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=Luancss&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
