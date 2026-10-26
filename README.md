@@ -69,24 +69,4 @@ learn and solve problems.
 ## 🏆 Some Trophies and Stats
 <p align="center"><a href="https://referral.hackthebox.com/mz7Kryv" target="_blank"><img src="https://github-profile-trophy-fast.vercel.app/?username=luancss&theme=juicyfresh&row=3&column=8"/></a><br><br>
 </p>
-
-## 📊 Statistics
-[![Luan Carlos github stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=Luancss&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-## 🛠️ Technologies & Tools
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
-![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&color=informational&logo=next.js)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational)
-
-![](https://img.shields.io/badge/Tool-HTML-informational?style=flat&color=warning&logo=html5)
-![](https://img.shields.io/badge/Tool-CSS-informational?style=flat&color=warning&logo=css3)
-![](https://img.shields.io/badge/Tool-SCSS-informational?style=flat&color=warning&logo=sass)
-![](https://img.shields.io/badge/Tool-Tailwind_CSS-informational?style=flat&color=blue&logo=tailwind-css)
-![](https://img.shields.io/badge/Tool-Git-informational?style=flat&color=success&logo=git)
-
-
-
-
-
 <!--
