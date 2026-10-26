@@ -13,8 +13,29 @@ debugging and correcting codes,
 demonstrating strong ability to
 learn and solve problems.
 
-## 📚 Writing
-My project [Open Source](https://pixel-patterns-mauve.vercel.app/).
+
+<h2 align="center">💣 My Bomberman Contribution Graph</h2>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Luancss/Luancss/output/bomberman-contribution-graph-dark.svg"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Luancss/Luancss/output/bomberman-contribution-graph.svg"
+    >
+    <img
+      alt="Bomberman contribution graph"
+      src="https://raw.githubusercontent.com/Luancss/Luancss/output/bomberman-contribution-graph.svg"
+    >
+  </picture>
+</p>
+
+## 🏆 Some Trophies and Stats
+<p align="center"><a href="https://referral.hackthebox.com/mz7Kryv" target="_blank"><img src="https://github-profile-trophy-fast.vercel.app/?username=luancss&theme=juicyfresh&row=3&column=8"/></a><br><br>
+</p>
 
 ## 📊 Statistics
 [![Luan Carlos github stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=Luancss&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
