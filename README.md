@@ -33,7 +33,6 @@ learn and solve problems.
 
 ## 🛠️ Technologies & Tools
 <div align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="25" alt="python logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
     <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="25" alt="ubuntu logo"  />
     <img src="https://skillicons.dev/icons?i=github" height="25" alt="github logo"  />
